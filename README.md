@@ -32,7 +32,7 @@ As an aspiring Data Analyst, I developed Power BI reports that deliver crucial i
 <br/>**<h3>Home Page</h3>** 
 
 <p align="center">
-  <img src="Home1.png" title="Home Page" >
+  <img src="HomePage_updated.png" title="Home Page" >
 </p>
 
 <br/><h3>Finance View: Financial planning and Expense Management </h3> 
@@ -43,7 +43,7 @@ Implemented a financial forecasting model, resulting in more accurate budget pre
 **Finance view**
 
 <p align="center">
-  <img src="Fin1.png" title="Finance View" >
+  <img src="Finance_view_updated.png" title="Finance View" >
 </p>
 
 <br/><h3>Sales View: Increase sales revenue with Customer and Product Performance </h3>
