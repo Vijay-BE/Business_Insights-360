@@ -94,7 +94,7 @@ Developed an executive dashboard for real-time performance monitoring. Shows rev
 <h3>Power BI fundamentals</h3>
 1.Creating calcualted columns and DAX measures
 
-2.Data Modelling ,data validation techniques and using KPI indicators
+<br/>2.Data Modelling ,data validation techniques and using KPI indicators
 
 3.Using bookmarks to switch between two visuals and conditional formatting
 
