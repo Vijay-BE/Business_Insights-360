@@ -9,7 +9,7 @@ Business Insights 360 - Power BI Project for AtliQ Hardware
 
 **Live Dashboard Link**: [Link](https://app.powerbi.com/view?r=eyJrIjoiMmM5ZTU4ZWItNTA2NC00Y2VjLTkwZDAtOTBlOWZjNzdmNWIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=edd681148e5ed03191b1)
 
-**Linkedin Profile Link**: [Link](www.linkedin.com/in/vijay-v-534666209)
+**Linkedin Profile Link**: [Link](https://www.linkedin.com/in/vijay-v-534666209)
 
 # Brief overview of the project:
 
